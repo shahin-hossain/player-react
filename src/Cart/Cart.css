@@ -1,0 +1,6 @@
+.cart-container {
+    background-color: aquamarine;
+    border-radius: 8px;
+    position: sticky;
+    top: 0;
+}

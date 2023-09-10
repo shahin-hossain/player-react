@@ -1,0 +1,62 @@
+[
+    {
+        "player_id": "111",
+        "player_name": "Shakib Al Hasan",
+        "player_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcS2yCTSl4jxrRgdAa_7ron5792IkrWZyY53AdUQU6zeAPO98UsPJ4_i8e1uqT4jxSa9kZf7p61yhyQwSo8&psig=AOvVaw37GEIhVYLPf_aC7k_XjHio&ust=1694346634424000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjghZu7nYEDFQAAAAAdAAAAABAE",
+        "player_price": 1500000
+    },
+    {
+        "player_id": "222",
+        "player_name": "Tamim Iqbal",
+        "player_image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tamim_Iqbal.jpg",
+        "player_price": 1200000
+    },
+    {
+        "player_id": "333",
+        "player_name": "Mushfiqur Rahim",
+        "player_image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319700/319727.png",
+        "player_price": 1000000
+    },
+    {
+        "player_id": "444",
+        "player_name": "Mustafizur Rahman",
+        "player_image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRGA4QjjpqYoZogpc4qrCm6J5O3UhSnRHeayp8ijdOlgF0q-MKwHh4qjW9hCunDUDbNLvFHGUSghS4AZFs",
+        "player_price": 900000
+    },
+    {
+        "player_id": "555",
+        "player_name": "Mashrafe Mortaza",
+        "player_image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRq8NUnUgG0Ss5wdJ8z_nrqt76x62Mk3LiroRrJ_2WgXr6Zt0_HwgqneeuW6vBuMdU1XPQbwt1DSHMp_2A",
+        "player_price": 800000
+    },
+    {
+        "player_id": "666",
+        "player_name": "Mehidy Hasan",
+        "player_image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRYJCZbKNlCPPMtyQB8q17J1rhhdBLVM_VQcG3A2J6d99GCzzzWjiXMF8dtihE1SDxlsScX3K8lyCSQzPw",
+        "player_price": 750000
+    },
+    {
+        "player_id": "777",
+        "player_name": "Liton Das",
+        "player_image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR97pmUnxydMradgciuFnrnhOnx9rO66TK1OssCRqjaPkIQ7wz4VjkcxllBfQCA86z7cNVEFAOWyHajxSk",
+        "player_price": 700000
+    },
+    {
+        "player_id": "888",
+        "player_name": "Taskin Ahmed",
+        "player_image": "https://resources.pulse.icc-cricket.com/players/284/1839.png",
+        "player_price": 600000
+    },
+    {
+        "player_id": "999",
+        "player_name": "Soumya Sarkar",
+        "player_image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS0JafOTbqGX8GRouc7DXpDfVidpqA1VxUlJd_nzbTj4fHDCIxNL3LV_mFFIQ9kvGYoeSLMwxqwlKfb3aU",
+        "player_price": 550000
+    },
+    {
+        "player_id": "1010",
+        "player_name": "Mahmudullah Riyad",
+        "player_image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRRcYw7P2fo-bMNqzTXPM6zswCsC9HWvHyBDiwcmXmvzcNllni3RF9SF8sp_5wJF3xppJfNexhpD99-VFQ",
+        "player_price": 500000
+    }
+]
